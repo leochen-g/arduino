@@ -11,7 +11,7 @@ int pos = 0;    // variable to store the servo position
 byte buff[2];
 
 // for yeelink api
-#define APIKEY         "6d58041777974e0a50d508b78ac28db4" // 此处替换为你自己的API KEY
+#define APIKEY         "6d58041777974e0a50d50*******4" // 此处替换为你自己的API KEY
 #define DEVICEID       345302 // 此处替换为你的设备编号
 #define SENSORID       387942// 此处替换为你的传感器编号
 
