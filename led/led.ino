@@ -8,7 +8,7 @@ char flag = 0; //定义开关循环控制变量
 
 // for yeelink api
 
-#define APIKEY         "6d58041777974e0a50d508b78ac28db4" // 替换你的 API KEY
+#define APIKEY         "6d58041777974e0a50*****8db4" // 替换你的 API KEY
 #define DEVICEID       345302 // 替换你的device ID
 String SENSORno[] = {"386996","386997","386998"}; // 把sensor ID 依次替在这里，程序定义为数组，几个开关就写几个
 
