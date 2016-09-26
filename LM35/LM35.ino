@@ -3,7 +3,7 @@
 #include <math.h>
 const int THERM_PIN = A3; //定义模拟端口A3 连接LM35温度传感器
 //  yeelink api
-#define APIKEY         "6d58041777974e0a50d508b78ac28db4" // APIKEY
+#define APIKEY         "6d58041777974e0a50d50********" // APIKEY
 #define DEVICEID       345302 // 设备ID
 #define SENSORID       386351 // 传感器ID
 
